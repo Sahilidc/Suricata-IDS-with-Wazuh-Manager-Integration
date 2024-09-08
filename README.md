@@ -1,0 +1,1 @@
+# Suricata-IDS-with-Wazuh-Manager-Integration
